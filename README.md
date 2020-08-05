@@ -9,8 +9,8 @@ Estou bem animado com as coisas que estou aprendendo e me divertindo com os resu
 espetaculares que estou conseguindo e quero continua nessa área.
 
  Estou procurando trabalho na área:exclamation:
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React.
- <br/> :blush: &nbsp; Posso te ajudar com desenvolvimento Web, utilizando as novas tecnologias para Front-end.
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end.
+ <br/> :blush: &nbsp; Posso te ajudar com desenvolvimento Web, utilizando as novas tecnologias para Front-end e Back-end.
  <br/> :computer: &nbsp; Stacks que tenho utilizado: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Gosto muito das inovações de TI, adoro games, tenho muito interesse em fazer parte 
  do desenvolvimento de uma empresa de games um dia, gosto muito de ser Dev. 
